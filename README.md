@@ -1,5 +1,5 @@
 # Cpp_Projects
-C++ Projects from Codecademy https://www.codecademy.com/learn/learn-c-plus-plus
+C++ Projects from Codecademy course https://www.codecademy.com/learn/learn-c-plus-plus
 
 
 These projects were built in Visual Studio 2019. 
