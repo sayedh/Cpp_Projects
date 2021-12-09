@@ -2,7 +2,7 @@
 C++ Projects from Codecademy
 
 
-These project were built in Visual Studio 2019. 
+These projects were built in Visual Studio 2019. 
 
 
-Executable projects are available in the Debug folder. 
+Executables are available in the Debug folder. 
